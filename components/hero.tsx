@@ -42,7 +42,7 @@ export function Hero() {
               <div className="relative mt-12 md:mt-0">
                 <div className="absolute inset-0 bg-gradient-to-br from-primary to-primary-foreground rounded-3xl transform rotate-3"></div>
                 <Image
-                  src="/placeholder.svg?height=500&width=500&text=Armoniem+Bezabih"
+                  src="/hero1.png?height=500&width=500&text=Armoniem+Bezabih"
                   alt="Armoniem Bezabih"
                   width={500}
                   height={500}
