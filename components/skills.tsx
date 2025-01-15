@@ -18,16 +18,6 @@ const skills = [
     icon: "🗄️"
   },
   {
-    title: "DevOps & Cloud",
-    technologies: ["Docker", "Kubernetes", "AWS", "Google Cloud", "CI/CD"],
-    icon: "☁️"
-  },
-  {
-    title: "Mobile Development",
-    technologies: ["React Native", "Flutter", "Progressive Web Apps"],
-    icon: "📱"
-  },
-  {
     title: "Other Skills",
     technologies: ["GraphQL", "RESTful APIs", "WebSockets", "Microservices"],
     icon: "🛠️"
